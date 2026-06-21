@@ -1,0 +1,5 @@
+pwd - mostra o caminho para a pasta atual
+cd - entra na pasta desejada
+ls - mostra arquivos da pasta atual
+cat - exibe conteúdo do arquivo
+rm - remove arquivo ou diretório
