@@ -5,3 +5,7 @@ Este arquivo contem informações adicionais para git
 
 # Comandos mais genéricos
 * Comandos estranhos
+
+asdasfasfdas
+asdasfsfgfdfgb
+dafsddgfnbvcxa
